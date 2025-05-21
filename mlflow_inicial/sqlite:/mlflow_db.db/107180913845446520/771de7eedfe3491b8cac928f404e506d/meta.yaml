@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107180913845446520/771de7eedfe3491b8cac928f404e506d/artifacts
+end_time: 1746967096677
+entry_point_name: ''
+experiment_id: '107180913845446520'
+lifecycle_stage: active
+run_id: 771de7eedfe3491b8cac928f404e506d
+run_name: primeira
+run_uuid: 771de7eedfe3491b8cac928f404e506d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746967093247
+status: 3
+tags: []
+user_id: felipe
